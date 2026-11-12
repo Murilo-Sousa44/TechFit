@@ -1,7 +1,7 @@
 TechFit – Sua Academia Digital. 
 Bem-vindo ao TechFit, uma plataforma moderna para academias!
 
-📌 Sobre o Projeto TechFit é um site desenvolvido para academias que desejam fortalecer sua presença online. Com um design responsivo e moderno, a página oferece informações essenciais sobre a academia, planos de treino e formas de contato para novos alunos.
+📌 Sobre o Projeto: TechFit é um site desenvolvido para academias que desejam fortalecer sua presença online. Com um design responsivo e moderno, a página oferece informações essenciais sobre a academia, planos de treino e formas de contato para novos alunos.
 
 Funcionalidades: Página inicial atrativa e responsiva - Seção de planos e benefícios - Contato rápido e localização - Design moderno e intuitivo 
 
